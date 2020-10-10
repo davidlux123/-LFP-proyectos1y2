@@ -1,0 +1,13 @@
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\bin\Debug\proyecto2Lenguajes.exe.config
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\bin\Debug\proyecto2Lenguajes.exe
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\bin\Debug\proyecto2Lenguajes.pdb
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\obj\Debug\proyecto2Lenguajes.csprojAssemblyReference.cache
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\obj\Debug\proyecto2Lenguajes.Form1.resources
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\obj\Debug\proyecto2Lenguajes.Properties.Resources.resources
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\obj\Debug\proyecto2Lenguajes.csproj.GenerateResource.cache
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\obj\Debug\proyecto2Lenguajes.csproj.CoreCompileInputs.cache
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\obj\Debug\proyecto2Lenguajes.exe
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\obj\Debug\proyecto2Lenguajes.pdb
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\bin\Debug\itextsharp.dll
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\obj\Debug\proyecto2Lenguajes.csproj.CopyComplete
+D:\alexl\Documents\Visual Studio 2017\Proyects\proyecto2Lenguajes\proyecto2Lenguajes\bin\Debug\itextsharp.xml
